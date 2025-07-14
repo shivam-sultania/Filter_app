@@ -1,0 +1,14 @@
+src/
+├── components/
+│   ├── TopBar.js
+│   ├── FilterPanel.js
+│   ├── FilterDropdown.js
+│   ├── DataTable.js
+├── context/
+│   └── DataContext.js
+├── utils/
+│   ├── csvParser.js
+│   └── filterUtils.js
+├── App.js
+├── index.js
+├── index.css
